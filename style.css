@@ -88,14 +88,14 @@ img {
 
 .lettre {
   background: #eff;
-  height: 253%;
+  height: 255%;
   width: 98%;
   margin: .5rem auto;
   font-size: 1.3rem;
   color: #bd0707;
   font-family: 'pacifico';
   text-align: center;
-  padding-top: 1.5rem;
+  padding-top: 1rem;
   padding-left: 0.8rem;
   padding-right: 0.8rem;
   animation: lettre 1s forwards 4s;
@@ -190,7 +190,7 @@ img {
 
 @keyframes us {
     100% {
-      transform: translateX(2.5rem) translateY(-48.5rem) rotate(-7deg) ;
+      transform: translateX(2.5rem) translateY(-49rem) rotate(-7deg) ;
     }
 }
 
