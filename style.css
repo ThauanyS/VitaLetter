@@ -88,14 +88,14 @@ img {
 
 .lettre {
   background: #eff;
-  height: 260%;
+  height: 253%;
   width: 98%;
   margin: .5rem auto;
   font-size: 1.3rem;
   color: #bd0707;
   font-family: 'pacifico';
   text-align: center;
-  padding-top: 2.5rem;
+  padding-top: 1.5rem;
   padding-left: 0.8rem;
   padding-right: 0.8rem;
   animation: lettre 1s forwards 4s;
